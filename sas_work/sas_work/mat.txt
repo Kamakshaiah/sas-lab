@@ -1,0 +1,5 @@
+x y       country
+1 2     india, 12
+3 4        UK, 13
+5 6     Italy, 15
+7 8 Singapore, 22	
